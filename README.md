@@ -7,7 +7,10 @@
 - kubectl get deployments
 - kubectl rs
 - kubectl get pods
+- kubectl expose deployment hw --type=NodePort
+- kubectl get services
 
 ## `minikube` commands
 - minikube version
 - minikube start
+- minikube service hw
