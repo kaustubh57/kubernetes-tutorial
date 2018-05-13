@@ -9,6 +9,8 @@
 - kubectl get pods
 - kubectl expose deployment hw --type=NodePort
 - kubectl get services
+- kubectl get all
+- kubectl get deploy/hw -o yaml
 
 ## `minikube` commands
 - minikube version
